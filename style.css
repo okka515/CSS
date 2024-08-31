@@ -1,0 +1,32 @@
+/* ここに書こう */
+body {
+    text-align: center;
+}
+
+.title img {
+    width: 50%
+}
+
+.title h1 {
+    font-family: serif;
+    font-size: 48px;
+    margin-bottom: : 50px;
+}
+
+.coursegroup {
+        margin-bottom: 50px;
+}
+
+.coursegroup h2 {
+    font-size: 36px;
+}
+
+.course {
+    padding: 20px;
+}
+
+.course img {
+    height: 120px;
+    width: auto;
+}
+
